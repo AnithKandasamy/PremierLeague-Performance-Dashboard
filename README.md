@@ -14,4 +14,4 @@ You can access the final result just by installing the PowerPoint located in thi
 
 ## Possible Improvements 
 
-It would be interesting to now retrace to find the key reasons of each teams performances via other variables and try to predict using machine learning, future performances of a club.
+It would be interesting to find the key reasons of each team's performances via other variables as the budget allowed and try to predict using machine learning, future performances of a club.
